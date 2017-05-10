@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "DcM-Ta-Pno"; */
+"DcM-Ta-Pno.text" = "Nom";
+
+/* Class = "UILabel"; text = "Serial"; ObjectID = "IyW-WC-s8a"; */
+"IyW-WC-s8a.text" = "Numéro de série";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "JgR-jx-IXE"; */
+"JgR-jx-IXE.text" = "Valeur";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "M9c-J5-LaW"; */
+"M9c-J5-LaW.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qyh-9V-hKs"; */
+"Qyh-9V-hKs.text" = "Label";

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Default Value</key>
+			<string>Coffee Cup</string>
+			<key>Text Field Is Secure</key>
+			<string>NO</string>
+			<key>Identifier</key>
+			<string>NextItemName</string>
+			<key>Keyboard Type</key>
+			<string>Alphabet</string>
+			<key>Title</key>
+			<string>TextField</string>
+			<key>Type</key>
+			<string>Text Field</string>
+			<key>Autocorrection Style</key>
+			<string>Autocorrection</string>
+		</dict>
+	</array>
+</dict>
+</plist>
